@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.2 55.37">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #2db34a;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: CascadiaMonoRoman-Bold, 'Cascadia Mono';
+        font-size: 41.64px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(28.95 35.26)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan class="cls-1" x="22.76" y="0">SE</tspan></text>
+  <g>
+    <path class="cls-2" d="M15.89,25.53c3.3-.13,6.37-.91,8.66-2.2.01,0,.03-.02.04-.02l-7.93-16.28c-.28-.58-1.11-.59-1.44-.03L5.8,23.21c2.19,1.53,5.94,2.49,10.09,2.33Z"/>
+    <path class="cls-2" d="M25,25.31c-2.47,1.24-5.6,1.98-8.92,2.1-4.57.17-8.58-.83-11.13-2.56L.11,33.18c-.38.65.25,1.4.97,1.15l12.9-4.45c.76-.26,1.58-.25,2.32.04l12.51,4.91c.7.27,1.39-.45,1.06-1.11l-4.26-8.74c-.2.11-.4.22-.61.32Z"/>
+  </g>
+</svg>
